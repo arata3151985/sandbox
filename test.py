@@ -1,4 +1,4 @@
 import module
 
 print("test\n")
-module.Hello(7)
+module.Hello(5)
