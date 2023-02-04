@@ -1,3 +1,3 @@
 
-def Hello(n:int):
-    print("Hello " + str(n) +" \n")
+def hello(n: int):
+    return ("Hello " + str(n) + " \n")
